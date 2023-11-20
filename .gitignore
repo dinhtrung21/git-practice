@@ -1,0 +1,4 @@
+# Required ignored file types
+*.in
+*.out
+*.pyc
